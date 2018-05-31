@@ -77,7 +77,7 @@ class InstagramController
 
 	public static void Main()
 	{				
-        var images = GetLatestImages("jasonhalbig", 4);
+        var images = GetLatestImages("thecathedralevv", 4);
 
 		foreach (var image in images)
 		{
